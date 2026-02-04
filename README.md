@@ -105,8 +105,7 @@ GESTIONE AREA SCENTIFICA:
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
-![Modello Leonardo 1](museo%20foto%201.jpeg)
-![Modello Leonardo 2 ](museo%202%20foto.jpeg)
+![Modelli Leonardo ]<img src="museo%20foto%201.jpeg" width="250"> <img src="museo%202%20foto.jpeg" width="250">
 
 - ***Soft Skills:***
 
@@ -126,8 +125,8 @@ Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 > Questa esperienza ha consolidato la mia conoscenza territoriale e la mia capacità di analisi visiva poiché in archeologia come in informatica è importante guardare “sotto la superficie” per capirne il funzionamento.
 > 
 
-[Dati Siti 1](Siti%202fc389026c3080f8be73e265f3b6584d.csv)
-[Dati Siti 2](Siti%202fc389026c3080f8be73e265f3b6584d_all.csv)
+Dati siti 1:[Dati Siti 1](Siti%202fc389026c3080f8be73e265f3b6584d.csv)
+Dati siti 2:[Dati Siti 2](Siti%202fc389026c3080f8be73e265f3b6584d_all.csv)
 
 </aside>
 
