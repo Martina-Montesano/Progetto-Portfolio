@@ -15,12 +15,11 @@ Attualmente sono una studentessa di Informatica presso l’Università degli stu
 
 Posseggo un forte senso civico e di appartenenza del territorio, grazie alle attività che ho svolto mediante la partecipazione al Servizio Civile Universale e il volontariato attivo negli scavi archeologici di Vaglio Basilicata.
 
-" Il mio percorso assembla la costante curiosità per le nuove tecnologie alla precisione e responsabilità appresa durante il volontariato nel mio paese, Vaglio Basilicata, con l’obiettivo
-di rendere il mondo della tecnologia alla portata di tutti."
+" Il mio percorso assembla la costante curiosità per le nuove tecnologie alla precisione e responsabilità appresa durante il volontariato nel mio paese, Vaglio Basilicata, con l’obiettivo di rendere il mondo della tecnologia alla portata di tutti."
 ---
 
 🛠
-COMPETENZE TECNICHE
+**COMPETENZE TECNICHE**
 
 Oltre alla conoscenza della sintassi, mi appassiona la logica che è un pilastro fondamentale dell’Informatica. 
 
@@ -39,6 +38,7 @@ cout<<"  "; //output
 cin>> //input 
 return 0;
 }"
+```
 
 "#include<iostream>" 
  
@@ -74,17 +74,9 @@ return 0;
 
 Spiegazione: tutto è andato bene, dice al computer che il programma non presenta errori ed è finito.
 
-</aside>
-
-</aside>
-
-<aside>
-
-ESPERIENZE SIGNIFICATIVE
-
+**ESPERIENZE SIGNIFICATIVE**
 
 🏛️ Servizio Civile Universale
-
 
 **Ente**: Museo delle Antiche Genti di Lucania 
 
@@ -94,30 +86,32 @@ Durante il mio anno di Servizio Civile, ho operato all'interno di un contesto cu
 
 [Visualizza Attestato.pdf](Attestato_di_fine_servizio.pdf)
 
-Attività e Responsabilità
+ATTIVITA' E RESPONSABILITA'
 
-GESTIONE AREA ARCHEOLOGICA:
+Gestione area archeologica:
 
  Cura ed esposizione dei reperti alcuni originali, altre riproduzioni del mio territorio appartenenti ai siti di Serra di Vaglio e Rossano.
+ 
 
 <img src="museo_foto_3.jpeg" width="250">
 
+
 Area archeologica reperti di Serra di Vaglio e Rossano.
 
-GESTIONE AREA SCENTIFICA: 
+Gestione area scientifica: 
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
 <img src="museo%20foto%201.jpeg" width="250">
 <img src="museo%202%20foto.jpeg" width="250">
 
-- Soft Skills:
+**Soft Skills:**
 
 Capacità di lavorare in team con esperti di differenti settori, partecipando a progetti in gruppo sia in smart working che in presenza, mediante diverse sedi come per esempio l’Unibas.
 
 " Ho imparato a collaborare con persone estranee al mio gruppo di lavoro, sviluppando una grande adattabilità a diversi contesti di altri progetti, aumentando le mie capacità inventive e di problem solving."
 
-VOLONTARIATO E TERRITORIO
+**VOLONTARIATO E TERRITORIO**
 
 👷🏻 Luogo: Scavi di Vaglio Basilicata
 Serra di Vaglio-Santuario archeologico di Macchia di Rossano
@@ -125,11 +119,14 @@ Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 "Questa esperienza ha consolidato la mia conoscenza territoriale e la mia capacità di analisi visiva poiché in archeologia come in informatica è importante guardare “sotto la superficie” per capirne il funzionamento"
 
 Siti:
- <img src="serra%201.jpeg" width="300">  <img src="rossano%201.jpeg" width="300"> 
- <img src="serra%203.jpeg" width="300">  <img src="rossano%202.jpeg" width="300"> 
-</aside>
 
-<aside>
+ <img src="serra%201.jpeg" width="300">  
+ 
+ <img src="rossano%201.jpeg" width="300"> 
+ 
+ <img src="serra%203.jpeg" width="300"> 
+ 
+ <img src="rossano%202.jpeg" width="300"> 
 
 *CONTATTI*
 
@@ -141,6 +138,5 @@ UNIVERSITA’: Università degli Studi della Basilicata
 ---
 SEDE : Vaglio Basilicata/Potenza 
 ---
-</aside>
 
 *Ultimo aggiornamento: Febbraio 2026*
