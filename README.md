@@ -89,7 +89,7 @@ Spiegazione: tutto è andato bene, dice al computer che il programma non present
 
 Durante il mio anno di Servizio Civile, ho operato all'interno di un contesto culturale unico gestendo la valorizzazione sia dei reperti archeologici di Vaglio Basilicata sia dei modelli ingegneristici di Leonardo Da Vinci, attraverso l’area del museo contenente riproduzioni di studi e modellini in legno di vari ambiti. 
 
-[Attestato di fine servizio.pdf](Attestato_di_fine_servizio.pdf)
+[Visualizza Attestato.pdf](Attestato_di_fine_servizio.pdf)
 
 - ***ATTIVITA’ E RESPONSABILITA’***
 
@@ -105,8 +105,8 @@ GESTIONE AREA SCENTIFICA:
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
-![Modello Leonardo 1](museo_foto_1.jpeg)
-![Modello Leonardo 2 ](museo_2_foto.jpeg)
+![Modello Leonardo 1](museo%20foto%201.jpeg)
+![Modello Leonardo 2 ](museo%202%20foto.jpeg)
 
 - ***Soft Skills:***
 
