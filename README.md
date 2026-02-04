@@ -74,6 +74,19 @@ return 0;
 
 Spiegazione: tutto è andato bene, dice al computer che il programma non presenta errori ed è finito.
 
+🛡️**PROGETTI CYBER SECURITY**
+Password Generator (C++)
+Ho creato uno strumento che genera password sicure basate su criteri di **entropia**. 
+Il programma previene attacchi di tipo **Brute Force** assicurando che la password contenga:
+* Lettere maiuscole e minuscole
+* Numeri
+* Caratteri speciali
+
+> [!TIP]
+> Una password di 12 caratteri generata con questo tool richiederebbe anni per essere decifrata da un normale computer domestico!
+
+[Visualizza il codice del generatore](./password_generator.cpp)
+
 **ESPERIENZE SIGNIFICATIVE**
 
 🏛️ Servizio Civile Universale
