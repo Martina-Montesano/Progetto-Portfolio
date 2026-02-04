@@ -128,7 +128,7 @@ Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 ###Siti: 
 | Serra | Santuario Macchia di Rossano |
 | :---: | :---: |
-| <img src="serra_1.jpeg" width="300"> | <img src="rossano_1.jpeg" width="300"> |
+| <img src="Serra%201.jpeg" width="300"> | <img src="Rossano%201.jpeg" width="300"> |
 | <img src="serra_2.jpeg" width="300"> | <img src="rossano_2.jpeg" width="300"> |
 | <img src="serra_3.jpeg" width="300"> | |
 </aside>
