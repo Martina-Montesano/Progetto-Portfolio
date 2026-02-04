@@ -97,7 +97,7 @@ GESTIONE AREA ARCHEOLOGICA:
 
  Cura ed esposizione dei reperti alcuni originali, altre riproduzioni del mio territorio appartenenti ai siti di Serra di Vaglio e Rossano.
 
-![Area archeologica](museo_foto_3.jpeg)
+<img src="museo_foto_3.jpeg" width="250">
 
 Area archeologica reperti di Serra di Vaglio e Rossano.
 
@@ -105,7 +105,7 @@ GESTIONE AREA SCENTIFICA:
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
-![Modelli Leonardo ]<img src="museo%20foto%201.jpeg" width="250"> <img src="museo%202%20foto.jpeg" width="250">
+<img src="museo%20foto%201.jpeg" width="250"> <img src="museo%202%20foto.jpeg" width="250">
 
 - ***Soft Skills:***
 
