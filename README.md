@@ -43,7 +43,7 @@ cin>> //input
 return 0;
 }"
 ```
- "#include<iostream>" 
+"#include<iostream>" 
  ---
 Spiegazione: permette al programma di ricevere dati [I] Input, 
 possiamo ricordarlo con la domanda “cosa chiedo all’utente con il comando cin>>?”
