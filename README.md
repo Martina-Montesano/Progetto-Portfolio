@@ -104,7 +104,6 @@ GESTIONE AREA ARCHEOLOGICA:
 <img src="museo_foto_3.jpeg" width="250">
 
 Area archeologica reperti di Serra di Vaglio e Rossano.
----
 
 GESTIONE AREA SCENTIFICA: 
 
