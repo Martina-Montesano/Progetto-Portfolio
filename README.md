@@ -19,7 +19,7 @@ Posseggo un forte senso civico e di appartenenza del territorio, grazie alle att
 di rendere il mondo della tecnologia alla portata di tutti."
 --- 
 </aside>
----
+
 <aside>
  
 🛠
@@ -30,7 +30,7 @@ Oltre alla conoscenza della sintassi, mi appassiona la logica che è un pilastro
 La logica viene utilizzata per la risoluzione dei problemi, e per la capacità di progettazione tracciando ogni singolo passaggio per garantirne la completa trasparenza.
 ---
 Vi presento un’illustrazione dei componenti essenziali di un programma base: C++
-
+ ```cpp 
 "#include<iostream>
 using namespace std;
 int main () { //commento: è il punto di inizio principale
@@ -40,6 +40,7 @@ cout<<"  "; //output
 cin>> //input 
 return 0;
 }"
+```
 ---
 
 - "#include<iostream>" 
