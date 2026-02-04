@@ -2,12 +2,12 @@
 <p align="center">
   <img src="Copia%20di%20INFORMATICA&ARCHEOLOGIA.png" alt="Banner Informatica e Archeologia" width="100%">
 </p>
-<aside>
+
 💡
 
 BIO-CHI SONO?
 
-Mi chiamo Martina Montesano, vengo da un piccolo paesino della Basilicata in provincia di Potenza, Vaglio Basilicata. 
+Mi chiamo **Martina Montesano**, vengo da un piccolo paesino della Basilicata in provincia di Potenza, Vaglio Basilicata. 
 
 Ho frequentato l’istituto superiore I.I.S Leonardo Da Vinci Potenza, scegliendo l’indirizzo Amministrazione-Finanza e Marketing.
 
@@ -17,11 +17,8 @@ Posseggo un forte senso civico e di appartenenza del territorio, grazie alle att
 
 " Il mio percorso assembla la costante curiosità per le nuove tecnologie alla precisione e responsabilità appresa durante il volontariato nel mio paese, Vaglio Basilicata, con l’obiettivo
 di rendere il mondo della tecnologia alla portata di tutti."
+---
 
-</aside>
-
-<aside>
- 
 🛠
 COMPETENZE TECNICHE
 
@@ -30,9 +27,11 @@ Oltre alla conoscenza della sintassi, mi appassiona la logica che è un pilastro
 La logica viene utilizzata per la risoluzione dei problemi, e per la capacità di progettazione tracciando ogni singolo passaggio per garantirne la completa trasparenza.
 
 Vi presento un’illustrazione dei componenti essenziali di un programma base: C++
- ` ` `cpp 
+
+```cpp
 "#include<iostream>
 using namespace std;
+
 int main () { //commento: è il punto di inizio principale
 // Dichiarazione: (esempio come int voti[5]
 // Azioni con l'uso dei cicli for ad esempio
@@ -40,7 +39,7 @@ cout<<"  "; //output
 cin>> //input 
 return 0;
 }"
- ` ` `
+
 "#include<iostream>" 
  
 Spiegazione: permette al programma di ricevere dati [I] Input, 
@@ -109,7 +108,8 @@ GESTIONE AREA SCENTIFICA:
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
-<img src="museo%20foto%201.jpeg" width="250"> <img src="museo%202%20foto.jpeg" width="250">
+<img src="museo%20foto%201.jpeg" width="250">
+<img src="museo%202%20foto.jpeg" width="250">
 
 - Soft Skills:
 
