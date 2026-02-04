@@ -8,11 +8,11 @@ BIO
 CHI SONO?
 ---
 Mi chiamo Martina Montesano, vengo da un piccolo paesino della Basilicata in provincia di Potenza, Vaglio Basilicata. 
----
+
 Ho frequentato l’istituto superiore I.I.S Leonardo Da Vinci Potenza, scegliendo l’indirizzo Amministrazione-Finanza e Marketing.
----
+
 Attualmente sono una studentessa di Informatica presso l’Università degli studi della Basilicata. 
----
+
 Posseggo un forte senso civico e di appartenenza del territorio, grazie alle attività che ho svolto mediante la partecipazione al Servizio Civile Universale e il volontariato attivo negli scavi archeologici di Vaglio Basilicata.
 ---
 " Il mio percorso assembla la costante curiosità per le nuove tecnologie alla precisione e responsabilità appresa durante il volontariato nel mio paese, Vaglio Basilicata, con l’obiettivo
@@ -41,19 +41,17 @@ cin>> //input
 return 0;
 }"
 ```
----
-
-- "#include<iostream>" 
----
+ "#include<iostream>" 
+ ---
 Spiegazione: permette al programma di ricevere dati [I] Input, 
 possiamo ricordarlo con la domanda “cosa chiedo all’utente con il comando cin>>?”
 e mandarli a schermo [O] Output,
 possiamo ricordarlo con la domanda “cosa dobbiamo servire/stampare?”
----
+
 -"using namespace std;"
 ---
 Spiegazione: significa “usa spazio dei nomi standard;” ovvero ci aiuta a semplificare la scrittura evitando di dover riscrivere ogni comando standard ogni qual volta viene citato.
----
+
 //quel “ **;** “ indica la punteggiatura per il computer, e significa “l’istruzione è finita ne inizierà un altro”
 ---
 - "int main () {"
@@ -61,13 +59,13 @@ Spiegazione: significa “usa spazio dei nomi standard;” ovvero ci aiuta a sem
 Spiegazione: è la parte principale, ho inserito all’interno del codice un **commento** con “//”, spiegando che il computer inizia a leggere proprio da qui.
 
 ()= contengono i parametri, cioè le informazioni che passiamo alla funzione per farla lavorare
-
+---
 {/} = inizia a eseguire da qui/ termina, sono il corpo della funzione.
 ---
-- return 0;
-
+return 0;
+--- 
 Spiegazione: tutto è andato bene, dice al computer che il programma non presenta errori ed è finito.
----
+
 </aside>
 
 </aside>
@@ -132,11 +130,11 @@ Siti:
 
  INFORMAZIONI
  ---
-| EMAIL | [martinamontesano63@gmail.com](mailto:martinamontesano63@gmail.com) |
+ EMAIL: [martinamontesano63@gmail.com](mailto:martinamontesano63@gmail.com) 
 ---
-| UNIVERSITA’ | Università degli Studi della Basilicata |
+UNIVERSITA’: Università degli Studi della Basilicata 
 ---
-| SEDE | Vaglio Basilicata/Potenza |
+SEDE : Vaglio Basilicata/Potenza 
 ---
 </aside>
 
