@@ -58,10 +58,14 @@ Spiegazione: significa “usa spazio dei nomi standard;” ovvero ci aiuta a sem
   ---
 Spiegazione: è la parte principale, ho inserito all’interno del codice un **commento** con “//”, spiegando che il computer inizia a leggere proprio da qui.
 
-()= contengono i parametri, cioè le informazioni che passiamo alla funzione per farla lavorare
+()= 
 ---
-{/} = inizia a eseguire da qui/ termina, sono il corpo della funzione.
+contengono i parametri, cioè le informazioni che passiamo alla funzione per farla lavorare
+
+{/} = 
 ---
+inizia a eseguire da qui/ termina, sono il corpo della funzione.
+
 return 0;
 --- 
 Spiegazione: tutto è andato bene, dice al computer che il programma non presenta errori ed è finito.
