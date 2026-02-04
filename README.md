@@ -28,7 +28,7 @@ COMPETENZE TECNICHE
 Oltre alla conoscenza della sintassi, mi appassiona la logica che è un pilastro fondamentale dell’Informatica. 
 
 La logica viene utilizzata per la risoluzione dei problemi, e per la capacità di progettazione tracciando ogni singolo passaggio per garantirne la completa trasparenza.
----
+
 Vi presento un’illustrazione dei componenti essenziali di un programma base: C++
  ```cpp 
 "#include<iostream>
@@ -52,9 +52,11 @@ possiamo ricordarlo con la domanda “cosa dobbiamo servire/stampare?”
 ---
 Spiegazione: significa “usa spazio dei nomi standard;” ovvero ci aiuta a semplificare la scrittura evitando di dover riscrivere ogni comando standard ogni qual volta viene citato.
 
-//quel “ **;** “ indica la punteggiatura per il computer, e significa “l’istruzione è finita ne inizierà un altro”
+//quel “ **;** “
 ---
-- "int main () {"
+indica la punteggiatura per il computer, e significa “l’istruzione è finita ne inizierà un altro”
+
+"int main () {"
   ---
 Spiegazione: è la parte principale, ho inserito all’interno del codice un **commento** con “//”, spiegando che il computer inizia a leggere proprio da qui.
 
