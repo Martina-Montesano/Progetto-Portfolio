@@ -105,8 +105,8 @@ GESTIONE AREA SCENTIFICA:
 
 Cura, approfondimento ed esposizione dettagliata dei modelli delle macchine di Leonardo Da Vinci, permettendomi di spiegare concetti complessi ad un pubblico eterogeneo.
 
-![Progetti e Modelli](museo_foto_1.jpeg)
-![Progetti e Modelli](museo_2_foto.jpeg)
+![Modello Leonardo 1](museo_foto_1.jpeg)
+![Modello Leonardo 2 ](museo_2_foto.jpeg)
 
 - ***Soft Skills:***
 
