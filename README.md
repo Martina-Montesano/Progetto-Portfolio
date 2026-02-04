@@ -83,7 +83,7 @@ Spiegazione: tutto è andato bene, dice al computer che il programma non present
 ESPERIENZE SIGNIFICATIVE
 ---
 
-🏛️ SERVIZIO CIVILE UNIVERSALE
+🏛️ Servizio Civile Universale
 ---
 
 **Ente**: Museo delle Antiche Genti di Lucania 
@@ -94,7 +94,7 @@ Durante il mio anno di Servizio Civile, ho operato all'interno di un contesto cu
 
 [Visualizza Attestato.pdf](Attestato_di_fine_servizio.pdf)
 ---
-ATTIVITA’ E RESPONSABILITA’
+Attività e Responsabilità
 ---
 
 GESTIONE AREA ARCHEOLOGICA:
@@ -134,9 +134,9 @@ Siti:
 
 <aside>
 
-*Contatti*
+*CONTATTI*
 
- INFORMAZIONI
+Informazioni
  ---
  EMAIL: [martinamontesano63@gmail.com](mailto:martinamontesano63@gmail.com) 
 ---
