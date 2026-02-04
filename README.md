@@ -1,5 +1,7 @@
 # IL MIO PORTFOLIO
-
+<p align="center">
+  <img src="Copia%20di%20INFORMATICA&ARCHEOLOGIA.png" alt="Banner Informatica e Archeologia" width="100%">
+</p>
 <aside>
 💡
 
