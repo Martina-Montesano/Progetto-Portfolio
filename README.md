@@ -125,9 +125,11 @@ Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 > Questa esperienza ha consolidato la mia conoscenza territoriale e la mia capacità di analisi visiva poiché in archeologia come in informatica è importante guardare “sotto la superficie” per capirne il funzionamento.
 > 
 
-Dati siti 1:[Dati Siti 1](Siti%202fc389026c3080f8be73e265f3b6584d.csv)
-Dati siti 2:[Dati Siti 2](Siti%202fc389026c3080f8be73e265f3b6584d_all.csv)
-
+###Siti: 
+| Serra | Santuario Macchia di Rossano |
+| :---: | :---: |
+| ![Serra 1](serra%201.jpeg) | ![Santuario 1](rossano%201.jpeg) |
+| ![Serra 2](serra%203.jpeg) | ![Santuario 2](rossano%202.jpeg) |
 </aside>
 
 <aside>
