@@ -125,7 +125,7 @@ Serra di Vaglio-Santuario archeologico di Macchia di Rossano
 > Questa esperienza ha consolidato la mia conoscenza territoriale e la mia capacità di analisi visiva poiché in archeologia come in informatica è importante guardare “sotto la superficie” per capirne il funzionamento.
 > 
 
-###Siti: 
+Siti: 
 | Serra | Santuario Macchia di Rossano |
 | :---: | :---: |
 | <img src="Serra%201.jpeg" width="300"> | <img src="Rossano%201.jpeg" width="300"> |
